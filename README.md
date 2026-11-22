@@ -8,7 +8,7 @@
 2.	Fairuz Alif Maghribi		(123240176)
 3.	Arya Kresna Diandra Putra	(123240238)
 4.	Naufal Shidqi R’A.A		(123240260)
-**Tipe masalah:** Supervised learning — klasifikasi biner (`RainTomorrow`: `Yes` atau `No`)
+5.	**Tipe masalah:** Supervised learning — klasifikasi biner (`RainTomorrow`: `Yes` atau `No`)
 
 ## Gambaran proyek
 
