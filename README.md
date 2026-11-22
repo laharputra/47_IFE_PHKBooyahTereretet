@@ -1,8 +1,9 @@
 # Proyek Akhir Praktikum Data Science 2026/2027 — Kelompok 47
 
 **Judul:** Prediksi Kejadian Hujan Esok Hari Berdasarkan Parameter Meteorologi Menggunakan Naive Bayes dan Random Forest  
-**Kelas:** IF-E, Informatika UPN "Veteran" Yogyakarta
-**Kelompok:** 47  
+**Kelas:** IF-E, Informatika UPN "Veteran" Yogyakarta    
+**Nama Kelompok:** PHK Booyah Tereretet    
+**Kelompok:** 47    
 **Anggota Kelompok:**
 1.	Lahar Nuansa Putra		(123240053)
 2.	Fairuz Alif Maghribi		(123240176)
